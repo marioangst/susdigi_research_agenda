@@ -1,0 +1,21 @@
+---
+title: "A co-created research agenda for the DSI community sustainability"
+---
+
+This is a living document containing the co-created research agenda of the DSI community sustainability.
+
+The DSI community sustainability is a community of researchers at the University of Zürich who are interested in issues of *sustainable digitalization".
+
+This co-created research agenda is the product of a discussion process within the community, previous research sustainable digitalization and exchange with practitioners.
+
+::: {.callout-caution collapse="true" icon="false"}
+## Sustainable Digitalization Roundtable
+
+On the 12th of May 2023, we organized a first roundtable "sustainable digitalization" with actors from all societal sectors.
+:::
+
+# Key research areas
+
+
+
+
