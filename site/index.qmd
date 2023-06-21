@@ -27,24 +27,24 @@ The DSI community sustainability is a community of researchers brought together 
 
 This co-created research agenda is the product of a discussion process within the community, previous research sustainable digitalization and exchange with practitioners.
 
-## Three key themes
+## Three key themes for our research
 
 ### Provide clarity 🔦
 
-We want to provide clarity among different concepts, definitions and approaches to sustainable digitalization.
+We provide clarity among different concepts, definitions and approaches to sustainable digitalization.
 
 ### Measure impacts 🍃
 
-We want to develop, test and share methodologies to measure sustainability impacts of digitalization.
+We develop, test and share methodologies to measure sustainability impacts of digitalization.
 
 ### Gather solutions 🎯
 
-We want to gather solutions to sustainable digitalization challenges coming from within and outside research, evaluate and organize them.
+We gather solutions to sustainable digitalization challenges coming from within and outside research, evaluate and organize them.
 
 ::: {.callout-caution collapse="true" icon="false" appearance="simple"}
 ## What got left out (for the moment)
 
-Our key themes do not cover all relevant and possible research areas when it comes to sustainable digitalization research. We chose to focus on them based on priorities communicated to us from practicioners as well as the distribution of skills within our community. Crucial issues that have been left out 🚧 todo 🚧: summarize
+Our key themes do not cover all relevant and possible research areas when it comes to sustainable digitalization research. We chose to focus on them based on priorities communicated to us from practicioners as well, the distribution of skills within our community and prioritizing issues with resource use implications. Crucial issues that have been left out for the moment include justice implications of surveillance technologies, ethical implications of [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) (sometimes called AI) applications, the societal consequences of social media use in terms of collective capacity for sustainability transformations.
 :::
 
 ## Our approach
@@ -56,7 +56,10 @@ There is a high demand for research on sustainable digitalization, which priorit
 
 ## Concrete next steps
 
-🚧 todo 🚧: What we want to do now next (eg. launch joint project, create sub-groups around themes...), following our approach in all three key themes.
+- Create sub-groups according to the three themes (provide clarity, measure impacts, gather solutions)
+- Define concrete research ideas and research projects for each sub-group
+- Share the research ideas and research project proposals with practitioners and societal actors, inquiring feedback and seeking possible collaborations
+- Start collaborating on research projects and submit at least one funding proposal in 2024
 
 # Methodology and rationale
 
@@ -64,19 +67,31 @@ The following sections describe the process through which we arrived at this res
 
 ## Co-creation process
 
-🚧 todo 🚧: describe shortly
+To arrive at this research agenda, we first combined existing research on sustainable digitalization with within-community discussions during a pilot year for our community, which led to the successful application for recognition as an official DSI community.
 
-::: {.callout-caution collapse="true" icon="false" appearance="simple"}
-## Sustainable Digitalization Roundtable
+::: column-margin
+A pointer and summaries on various aspects of the sustainable digitalization literature can be found in the resources prepared for a short PhD-level course [here](https://marioangst.github.io/susdigi_course/)
+
+For a very recent overview on sustainable digitalization research with lots of good references for further reading, see [this 2023 special issue in GAIA.](https://www.ingentaconnect.com/content/oekom/gaia/2023/00000032/a00101s1)
+:::
+
+We then started a co-creation process to engage with a broader set of actors in the sustainable digitalization domain to arrive in a first interation at this research agenda. 
+
+::: column-margin
+**Sustainable Digitalization Roundtable**
 
 On the 12th of May 2023, we organized a first roundtable "sustainable digitalization" with 15 practicioners from all societal sectors. During the roundtable, we focused on eliciting a) real-world challenges of and b) potential for solutions to sustainable digitalization in moderated small-group discussions. This research agenda is heavily influenced by the results of this roundtable and we want to continue shaping it in the future through similar processes.
 :::
 
 ## General sustainable digitalization challenges
 
-🚧 todo 🚧: edit
+In general, integrating sustainability objectives into digitalization is seen as taking too much time. One central issue that was identified is the lack of a definition or conceptualization of sustainability, digitalization, and the combination of those two concepts respectively. As sustainability is increasingly seen as a marketing claim by the public, sustainable digitalization or digital sustainability is also increasingly perceived as a buzzword that leads to increased interest, without sufficient understanding of the underlying concepts. 
 
-In general, the process of digital sustainability is seen as taking too much time and only making small progress, thereby showing little real impacts on society or the economy. One central issue that has been identified is the lack of a definition or conceptualization of sustainability, digitalization, and the combination of those two concepts respectively. While sustainability is increasingly seen as a marketing claim by the public, the combination of both concepts now seems to have become a buzzword that leads to increased interest, without sufficient understanding. Even though theoretical knowledge exists on sustainable digitalization (e.g., in academia), access to this information is sometimes limited, not widely known, or difficult to put in practice. On a more structural level, issues have been identified regarding the missing budget for implementing such digital and sustainable solutions on the individual, corporate, and societal level. Instead, current funding decisions are mostly directed towards mere efficiency targets. What is more, there is a general optimistic view on the possibilities that technology offers for sustainability, being falsely heralded as the ultimate solution. In other words, the environmental impacts of digitalization on a micro-level are sometimes not clearly defined or remain unknown. In fact, it was lamented that methodologies and measurements of CO2 emissions and digital processes are partly neither fully understood, nor is the necessary data available.
+Even though theoretical knowledge exists on sustainable digitalization (e.g., in academia and specialized consultancies), access to this information is sometimes limited, not widely known, or difficult to put in practice. 
+
+On a more structural level, financial resources are oftem missing for integrating sustainability objectives into digitalization processes on the individual, corporate, and societal levels. Funding in the sustainable digitalization domain almost exclusively focuses on efficiency targets. What is more, there is a generally likeyl over-optimistic, technology-centric view on the opportunities digitalization offers for sustainability.
+
+Further, the resource use impacts of digitalization on a micro-level are often hard to define or remain unknown. In fact, it was lamented that methodologies and measurements of CO2 emissions and digital processes are often not fully understood or the necessary data is not available.
 
 ## Specific challenges in societal sectors
 
