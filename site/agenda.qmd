@@ -17,15 +17,17 @@ reference-location: margin
 citation-location: margin
 ---
 
-This is a living document. It contains the co-created research agenda of the [DSI community sustainability](https://www.dsi.uzh.ch/en/research/communities/sustainability.html).
-
 ::: column-margin
+
 ![](img/cover_image.png)
+
 :::
+
+This is a living document. It contains the co-created research agenda of the [DSI community sustainability](https://www.dsi.uzh.ch/en/research/communities/sustainability.html).
 
 The DSI community sustainability is a community of researchers brought together by the Digital Society Initiative ([DSI](https://www.dsi.uzh.ch)) at the University of Zürich who are interested in issues of *sustainable digitalization*.
 
-This co-created research agenda is the product of a discussion process within the community, previous research sustainable digitalization and exchange with practitioners.
+This co-created research agenda is the product of a discussion process within the community, previous research sustainable digitalization and exchange with practitioners, especially during a roundtable discussion on the 12th May 2023.
 
 ## Three key themes for our research
 
@@ -51,23 +53,21 @@ Our key themes do not cover all relevant and possible research areas when it com
 
 There is a high demand for research on sustainable digitalization, which prioritizes an active dialogue with society above traditional forms of making our knowledge available. For us this means that we want to:
 
--   include actors from all societal sectors throughout all stages of the research process, including choices on what we research itself
+-   aim to include actors from all societal sectors throughout all stages of the research process, crucially including choices on what we research itself
 -   promote sustainable digitalization literacy among students
 
 ## Concrete next steps
 
-- Create sub-groups according to the three themes (provide clarity, measure impacts, gather solutions)
-- Define concrete research ideas and research projects for each sub-group
-- Share the research ideas and research project proposals with practitioners and societal actors, inquiring feedback and seeking possible collaborations
-- Start collaborating on research projects and submit at least one funding proposal in 2024
+-   Create sub-groups according to the three themes (provide clarity, measure impacts, gather solutions)
+-   Define concrete research ideas and research projects for each sub-group
+-   Share the research ideas and research project proposals with practitioners and societal actors, inquiring feedback and seeking possible collaborations
+-   Start collaborating on research projects and submit at least one funding proposal in 2024
 
-# Methodology and rationale
+# Co-creation process
 
-The following sections describe the process through which we arrived at this research agenda and gives an extended summary over our findings, which led to our three key themes.
+### 2022
 
-## Co-creation process
-
-To arrive at this research agenda, we first combined existing research on sustainable digitalization with within-community discussions during a pilot year for our community, which led to the successful application for recognition as an official DSI community.
+In 2022, we first combined existing research on sustainable digitalization with within-community discussions during a pilot year for our community, which led to the successful application for recognition as an official DSI community.
 
 ::: column-margin
 A pointer and summaries on various aspects of the sustainable digitalization literature can be found in the resources prepared for a short PhD-level course [here](https://marioangst.github.io/susdigi_course/)
@@ -75,19 +75,23 @@ A pointer and summaries on various aspects of the sustainable digitalization lit
 For a very recent overview on sustainable digitalization research with lots of good references for further reading, see [this 2023 special issue in GAIA.](https://www.ingentaconnect.com/content/oekom/gaia/2023/00000032/a00101s1)
 :::
 
-We then started a co-creation process to engage with a broader set of actors in the sustainable digitalization domain to arrive in a first interation at this research agenda. 
+### 2023
 
-::: column-margin
-**Sustainable Digitalization Roundtable**
+In 2023, we started a co-creation process to engage with a broader set of actors in the sustainable digitalization domain to arrive in a first interation at this research agenda.
+
+**Sustainable Digitalization Roundtable** (12th of May 2023)
 
 On the 12th of May 2023, we organized a first roundtable "sustainable digitalization" with 15 practicioners from all societal sectors. During the roundtable, we focused on eliciting a) real-world challenges of and b) potential for solutions to sustainable digitalization in moderated small-group discussions. This research agenda is heavily influenced by the results of this roundtable and we want to continue shaping it in the future through similar processes.
-:::
+
+# Findings
+
+This section gives an extended summary over our findings, which led to our three key themes.
 
 ## General sustainable digitalization challenges
 
-In general, integrating sustainability objectives into digitalization is seen as taking too much time. One central issue that was identified is the lack of a definition or conceptualization of sustainability, digitalization, and the combination of those two concepts respectively. As sustainability is increasingly seen as a marketing claim by the public, sustainable digitalization or digital sustainability is also increasingly perceived as a buzzword that leads to increased interest, without sufficient understanding of the underlying concepts. 
+In general, integrating sustainability objectives into digitalization is seen as taking too much time. One central issue that was identified is the lack of a definition or conceptualization of sustainability, digitalization, and the combination of those two concepts respectively. As sustainability is increasingly seen as a marketing claim by the public, sustainable digitalization or digital sustainability is also increasingly perceived as a buzzword that leads to increased interest, without sufficient understanding of the underlying concepts.
 
-Even though theoretical knowledge exists on sustainable digitalization (e.g., in academia and specialized consultancies), access to this information is sometimes limited, not widely known, or difficult to put in practice. 
+Even though theoretical knowledge exists on sustainable digitalization (e.g., in academia and specialized consultancies), access to this information is sometimes limited, not widely known, or difficult to put in practice.
 
 On a more structural level, financial resources are oftem missing for integrating sustainability objectives into digitalization processes on the individual, corporate, and societal levels. Funding in the sustainable digitalization domain almost exclusively focuses on efficiency targets. What is more, there is a generally likeyl over-optimistic, technology-centric view on the opportunities digitalization offers for sustainability.
 
@@ -103,9 +107,6 @@ For corporations and the private sector, the link between digitalization and sus
 
 Although authorities have pledged to move sustainability and digitalization forward, the connection of both processes has not been thoroughly thought through or enacted on the policy level. Therefore, there is a lack of regulation in that area, a void in responsibility attributions (usually seen as an EU-centered topic), and a general slowness in moving these two topics forward. Some legislation even seems to inhibit the sustainable and digital transformation of society, partly due to a strong lobby from the corporate sector that inhibit real change. More specifically, the political and democratic processes do not seem to keep up with the fast-moving developments in the technological sector, and funding is not effectively and rapidly directed to producing (non)-commercial solutions. Furthermore, access to publicly financed data should be made available across regional borders to allow an efficient exchange of information, thereby accelerating processes that go beyond the public sector (e.g., climate, environmental data). However, more wholistically, policymakers should also think in a more structural way about how the transformation towards a sustainable and digital society impacts current democratic processes, such as elections, tax payments, administration, and deliberate decision-making.
 
-## Challenges for academic research
-
-🚧 todo 🚧: build on solutions
 
 # Community members (19.6.2023)
 
