@@ -1,0 +1,14 @@
+
+body {
+  background-color: #a1a14a;
+}
+
+.agenda {
+        background-color: #8c8c43;
+    }
+
+.agenda-full-bleed {
+  box-shadow: 0 0 0 100vmax #8c8c43;
+  clip-path: inset(-20px -20px -20px -20px); 
+}
+

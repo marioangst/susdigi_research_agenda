@@ -2,9 +2,10 @@
 title: "A co-created research agenda for the DSI community sustainability"
 format:
   html:
-    backgroundcolor: rgb(161,161,74)
+    #backgroundcolor: rgb(161,161,74)
     fontcolor: black
     linkcolor: brown
+    css: custom.css
     grid:
       margin-width: 350px
     include-before-body: 
@@ -13,6 +14,10 @@ format:
     background-color: brown
     self-contained: true
     output-file: agenda.html
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
 reference-location: margin
 citation-location: margin
 ---
@@ -27,7 +32,12 @@ The DSI community sustainability is a community of researchers brought together 
 
 This co-created research agenda is the product of a discussion process within the community, previous research sustainable digitalization and exchange with practitioners, especially during a roundtable discussion on the 12th May 2023.
 
+
+
 ## Three key themes for our research
+
+<div class="agenda-full-bleed">
+<div class="agenda">
 
 ### Provide clarity 🔦
 
@@ -61,6 +71,9 @@ There is a high demand for research on sustainable digitalization, which priorit
 -   Share the research ideas and research project proposals with practitioners and societal actors, inquiring feedback and seeking possible collaborations
 -   Start collaborating on research projects and submit at least one funding proposal in 2024
 
+</div>
+</div>
+
 # Co-creation process
 
 ### 2022
@@ -77,9 +90,9 @@ For a very recent overview on sustainable digitalization research with lots of g
 
 In 2023, we started a co-creation process to engage with a broader set of actors in the sustainable digitalization domain to arrive in a first interation at this research agenda.
 
-**Sustainable Digitalization Roundtable** (12th of May 2023)
+- 🤝 Sustainable Digitalization Roundtable (12th of May 2023)
 
-On the 12th of May 2023, we organized a first roundtable "sustainable digitalization" with 15 practicioners from all societal sectors. During the roundtable, we focused on eliciting a) real-world challenges of and b) potential for solutions to sustainable digitalization in moderated small-group discussions. This research agenda is heavily influenced by the results of this roundtable and we want to continue shaping it in the future through similar processes.
+  On the 12th of May 2023, we organized a first roundtable "sustainable digitalization" with 15 practicioners from all societal sectors. During the roundtable, we focused on eliciting a) real-world challenges of and b) potential for solutions to sustainable digitalization in moderated small-group discussions. This research agenda is heavily influenced by the results of this roundtable and we want to continue shaping it in the future through similar processes.
 
 # Findings
 
@@ -101,7 +114,7 @@ Further, the **resource use impacts of digitalization** on a micro-level are oft
 
 Civil society actors identified technological, social, environmental and political issues.
 
-For example, the introduction of **SALAMI and bots poses unknown (ethical) risks and challenges** for society. Lack of knowledge about these tools and data generation processes among citizens create new **issues of digital justice** within and across generations. Due to the increased influence of big tech companies and their dominance in citizens' daily lives, individuals become subject to new forms of exploitative structures (**data colonialism**) that inhibit their digital sovereignty. **Tech-driven solutionism** leads to climate change being increasingly debated as a matter of technological solutions, while social aspects are mostly disregarded. In general, there seems to be **limited awareness among individuals** about the concept of sustainable digitalization.
+For example, the introduction of **[SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) (sometimes called AI) and bots poses unknown (ethical) risks and challenges** for society. Lack of knowledge about these tools and data generation processes among citizens create new **issues of digital justice** within and across generations. Due to the increased influence of big tech companies and their dominance in citizens' daily lives, individuals become subject to new forms of exploitative structures (**data colonialism**) that inhibit their digital sovereignty. **Tech-driven solutionism** leads to climate change being increasingly debated as a matter of technological solutions, while social aspects are mostly disregarded. In general, there seems to be **limited awareness among individuals** about the concept of sustainable digitalization.
 
 The **necessary skills** (as required by current technological and social infrastructures) among the broader public for developing and using solutions **are limited**, or in most cases lacking. Likewise, access to data and information is often lacking, even for information created through the use of public money.
 
@@ -131,6 +144,18 @@ Furthermore, access to publicly financed data is often not made available across
 
 On a much higher level, policymakers will need to engage in a debate with society about how the transformation towards a sustainable and digital society **impacts current democratic processes**, such as elections, tax payments, administration, and deliberate decision-making.
 
-# Community members (19.6.2023)
+# Community members
 
-🚧 todo 🚧: list members (read from csv directly)
+As of 3.7.2023
+
+```{r, echo=FALSE, warning = FALSE, message=FALSE, error=FALSE}
+members_tbl <- readr::read_csv("data/member_list.csv")
+
+members_tbl |> 
+  gt::gt() |> 
+  gt::tab_options(
+    table.background.color = "#8c8c43",
+    table.font.color.light = "black"
+  )
+```
+
