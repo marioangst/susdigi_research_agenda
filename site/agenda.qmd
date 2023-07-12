@@ -104,7 +104,7 @@ In general, integrating sustainability objectives into digitalization is seen as
 
 Even though **theoretical knowledge** exists on sustainable digitalization (e.g., in academia and specialized consultancies), **access to this information is sometimes limited**, not widely known, or difficult to put in practice.
 
-On a more structural level, **financial resources are oftem missing** for integrating sustainability objectives into digitalization processes on the individual, corporate, and societal levels. Funding in the sustainable digitalization domain almost exclusively focuses on efficiency targets. What is more, there is a generally likely **over-optimistic, technology-centric view** on the opportunities digitalization offers for sustainability.
+On a more structural level, **financial resources are often missing** for integrating sustainability objectives into digitalization processes on the individual, corporate, and societal levels. Funding in the sustainable digitalization domain almost exclusively focuses on efficiency targets. What is more, there is a generally likely **over-optimistic, technology-centric view** on the opportunities digitalization offers for sustainability.
 
 Further, the **resource use impacts of digitalization** on a micro-level are often hard to define or remain **unknown**. In fact, it was lamented that methodologies and measurements of CO2 emissions and digital processes are often not fully understood or the **necessary data is not available.**
 
